@@ -1,0 +1,48 @@
+EH 716244                            20180913    10000
+TH T100099-002     2000
+TPI 1.0001                              N
+0001  3.20 W
+00ANN
+01A01                                                                                                              1100001143           206500.00  3.37536001                                                                                7 Yr Libor ARM - Caps (5/2/5) - Index (WSJ 1 Yr LIBOR)                          
+02A509 Skyview Dr                                    Newberry                           SC29108    1  F1                                                                                    
+PAI509        Skyview Dr                                         
+02B  05                                                                                1                                                                     
+02D               0.00           0.00           0.00           0.0004                                                                                N           0.00
+03ABW991919991Alice                                                                 Firstimer                                        43   M  N         19750908                                                                                
+03C991919991ZG509 Skyview Dr                                    Newberry                           SC29108    O4 2 US                                                
+04A991919991My Employer                                                           Anchorage                          AK99518    N252 26                         2025554567
+05H991919991214         345.00
+05H991919991201         100.00
+05H991919991206          50.00
+05H991919991223         100.00
+05H991919991226         912.93
+05I99191999120       12000.00
+06C991919991SG BankOne                                                                                                                                                 123456.000                                                                                         
+06L991919991M REO                                                                                                                                                       1200.00         300000.00Y  NNNN
+07A           0.00           0.00           0.00      300000.00         458.16        2738.95           0.00         258.13           0.00           0.00           0.00
+08A991919991NNNNNNNNN01YY101
+09A99191999120180913
+10A991919991Y2                              M
+10BISudershan Ch                                                201809139085551212Lender ABC                         194 Wood Avenue South              Ninth Floor                        Iselin                             NJ08830    
+00070 3.20 
+99B 03      325000.00  0.00002                                                                                                                   
+ADSLoanOriginationCompanyID           6521                                              
+ADSHMDAGenderType                     991919991:Male                                    
+ADSHMDAGenderRefusalIndicator         991919991:N                                       
+ADSHMDAGenderCollectedBasedOnVisual   991919991:N                                       
+ADSHMDARaceType                       991919991:1:White                                 
+ADSHMDARaceRefusalIndicator           991919991:N                                       
+ADSHMDARaceCollectedBasedOnVisual     991919991:N                                       
+ADSHMDAEthnicityType                  991919991:NotHispanicOrLatino                     
+ADSHMDAEthnicityRefusalIndicator      991919991:N                                       
+ADSHMDAEthnicityCollectedBasedOnVisual991919991:N                                       
+ADSApplicationTakenMethodType         991919991:Internet                                
+00011 3.20 
+LNC1F02        16100.000N     5.000                      N2018100320181201  0.000   0.000NN
+PID                                             GEN7 
+PCH   N01NNN 
+ARM  0.68011  2.250  3.375
+RAJ1   84    0  5.000  5.00084 
+RAJ2   96 12 0  2.000  2.00096 
+TT      2000
+ET     10000

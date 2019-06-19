@@ -1,0 +1,75 @@
+EH 716244                            20180913    10000
+TH T100099-002     2000
+TPI 1.0001                              N
+0001  3.20 W
+00ANN
+01A01                                                                                                              1100001137           409500.00  3.62536005                                                                                                                                                                
+02A3774 Turner Dr Sw                                 Princeton                          MN55371    2  F1                                                                                    
+PAI3774       Turner Dr Sw                                       
+02B  16                                                                                1                                                                     
+03ABW999405000John                                                                  Homeowner                                        43   M2 Y50022200019750908                                                                                
+03AQZ500222000Mary                                                                  Homeowner                                        46   M2 Y99940500019720601                                                                                
+03B9994050008  
+03B9994050009  
+03B5002220008  
+03B5002220009  
+03C999405000ZG4615 Old Oak Dr                                   Little Rock                        AR72223    O5 3 US                                                
+03C500222000ZG4615 Old Oak Dr                                   Little Rock                        AR72223    O4 3 US                                                
+04A999405000BlueSage                           717 Valley Street #123             Stephentown                        NY12168    N5 2 8                          6253256154
+04A500222000Starbucks                          1015 Meadowcrest Lane #453         Stephentown                        NY12168    N4 2 6                          7589652564
+05H999405000214          75.00
+05H999405000201          50.00
+05H999405000206          55.00
+05H999405000223         150.00
+05H999405000226        1867.53
+05I99940500020        9800.00
+05I99940500009         250.00
+05I999405000AU         500.00
+05I50022200020        9500.00
+05I50022200009         250.00
+05I500222000CG         500.00
+06C999405000F2 BankOne                            209 Seneca Drive                   Stephentown                        NY12168    58425148556                          85000.000                                                                                         
+06C50022200003 Wellsfargo                         3637 Nash Street                   Stephentown                        NY12168    455456255                            55000.000                                                                                         
+06L999405000I SALLIE MAE                                                                                                          950254520                                0.00           5000.00N  NNNN
+06L999405000I SALLIE MAE                                                                                                          950752340                               24.6345         1100.00N  NNNN
+06L999405000I CHASE                                                                                                               58652333                               257.4419         5000.00N  NNNN
+06L999405000Z TOYOTA CREDIT                                                                                                       3210989098                             500.0332        15838.00N  NNNN
+06L999405000R UNIVERSAL VISA                                                                                                      6011785239                              25.0038          950.00N  NNNN
+07A      525000.00           0.00           0.00           0.00         162.68        5118.05           0.00           0.00           0.00           0.00           0.00
+07B03        1023.75
+08A999405000NNNNNNNNN01YY101
+08A500222000NNNNNNNNN01YY101
+09A99940500020180913
+09A500222000        
+10A999405000Y2                              M
+10A500222000Y2                              F
+10BFSudershan Ch                                                201809139085551212Lender ABC                         194 Wood Avenue South              Ninth Floor                        Iselin                             NJ08830    
+00070 3.20 
+99BN03      525000.00  0.00002                                                                                                                   
+ADSLoanOriginationCompanyID           6521                                              
+ADSHMDAGenderType                     999405000:Male                                    
+ADSHMDAGenderRefusalIndicator         999405000:N                                       
+ADSHMDAGenderCollectedBasedOnVisual   999405000:Y                                       
+ADSHMDARaceType                       999405000:1:White                                 
+ADSHMDARaceRefusalIndicator           999405000:N                                       
+ADSHMDARaceCollectedBasedOnVisual     999405000:Y                                       
+ADSHMDAEthnicityType                  999405000:NotHispanicOrLatino                     
+ADSHMDAEthnicityRefusalIndicator      999405000:N                                       
+ADSHMDAEthnicityCollectedBasedOnVisual999405000:Y                                       
+ADSApplicationTakenMethodType         999405000:FaceToFace                              
+ADSHMDAGenderType                     500222000:Female                                  
+ADSHMDAGenderRefusalIndicator         500222000:N                                       
+ADSHMDAGenderCollectedBasedOnVisual   500222000:Y                                       
+ADSHMDARaceType                       500222000:1:White                                 
+ADSHMDARaceRefusalIndicator           500222000:N                                       
+ADSHMDARaceCollectedBasedOnVisual     500222000:Y                                       
+ADSHMDAEthnicityType                  500222000:NotHispanicOrLatino                     
+ADSHMDAEthnicityRefusalIndicator      500222000:N                                       
+ADSHMDAEthnicityCollectedBasedOnVisual500222000:Y                                       
+ADSApplicationTakenMethodType         500222000:FaceToFace                              
+00011 3.20 
+LNC1F02        16100.000N                                N2018092720181101  0.000   0.000NN
+PID                                                  
+PCH   N01NNN 
+TT      2000
+ET     10000

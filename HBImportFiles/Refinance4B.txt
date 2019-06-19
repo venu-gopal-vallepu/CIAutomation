@@ -1,0 +1,136 @@
+EH 716244                            20180913    10000
+TH T100099-002     2000
+TPI 1.0001                              N
+0001  3.20 W
+00ANN
+01A01                                                                                                              1100001141           200000.00  3.75030005                                                                                                                                                                
+02A2722 Elk Street                                   Whittier                           CA90603    2  F1                                                                                    
+PAI2722       Elk Street                                         
+02B  05                                                                                1                                                                     
+02CJohn Homeowner, Mary Homeowner, Alice Firstimer, Suzi Builde
+02D               0.00           0.00           0.00           0.0004                                                                                N           0.00
+03ABW999405000John                                                                  Homeowner                                        43   M2 Y50022200019750908                                                                                
+03AQZ500222000Mary                                                                  Homeowner                                        46   M2 Y99940500019720601                                                                                
+03ABW991919991Alice                                                                 Firstimer                                        40   M2 N         19780908                                                                                
+03ABW999606666Suzi                                                                  Builder                                          46   S2 N         19720601                                                                                
+03B9994050008  
+03B9994050009  
+03B5002220008  
+03B5002220009  
+03B9919199918  
+03B9919199919  
+03B9996066668  
+03B9996066669  
+03C999405000ZG2722 Elk Street                                   Whittier                           CA90603    O5 3 US                                                
+03C500222000ZG2722 Elk Street                                   Whittier                           CA90603    O4 3 US                                                
+03C991919991ZG2722 Elk Street                                   Whittier                           CA90603    O5 3 US                                                
+03C999606666ZG2722 Elk Street                                   Whittier                           CA90603    O4 3 US                                                
+04A999405000Unifiedmanufacturing               717 Valley Street #123             Stephentown                        NY12168    N5 2 8                          6253256154
+04A500222000Starbucks                          1015 Meadowcrest Lane #453         Stephentown                        NY12168    N4 2 6                          7589652564
+04A991919991Unifiedmanufacturing               717 Valley Street #123             Stephentown                        NY12168    N5 2 8                          6253256154
+04A999606666Starbucks                          1015 Meadowcrest Lane #453         Stephentown                        NY12168    N4 2 6                          7589652564
+05H999405000114         400.00
+05H999405000101         120.00
+05H999405000106         100.00
+05H999405000214          75.00
+05H999405000201          50.00
+05H999405000206          55.00
+05H999405000223         150.00
+05H999405000226        1028.26
+05I99940500020        9800.00
+05I99940500009         250.00
+05I999405000AU         500.00
+05I50022200020        9500.00
+05I50022200009         250.00
+05I500222000CG         500.00
+05I99191999120        9500.00
+05I99191999109         250.00
+05I991919991CG         500.00
+05I99960666620        9500.00
+05I99960666609         250.00
+05I999606666CG         500.00
+06C999405000F2 BankOne                            209 Seneca Drive                   Stephentown                        NY12168    58425148556                          85000.000                                                                                         
+06C50022200003 Wellsfargo                         3637 Nash Street                   Stephentown                        NY12168    455456255                            55000.000                                                                                         
+06C99191999103 Wellsfargo                         3637 Nash Street                   Stephentown                        NY12168    455456255                            55000.000                                                                                         
+06C99960666603 Wellsfargo                         3637 Nash Street                   Stephentown                        NY12168    455456255                            55000.000                                                                                         
+06G9994050002722 Elk Street                    Whittier                           CA90603    H14      325000.00           0.00           0.00           0.00         620.00           0.00YY1                
+06L999405000I SALLIE MAE                                                                                                          950254520                                0.00           5000.00N  NNNN
+06L999405000I SALLIE MAE                                                                                                          950752340                               24.6345         1100.00N  NNNN
+06L999405000I CHASE                                                                                                               58652333                               257.4419         5000.00N  NNNN
+06L999405000Z TOYOTA CREDIT                                                                                                       3210989098                             500.0332        15838.00N  NNNN
+06L999405000R UNIVERSAL VISA                                                                                                      6011785239                              25.0038          950.00N  NNNN
+06L999405000M REO                                                                                                                                                       1200.00         250000.00Y  NNNN
+06L999606666M KENTUCKY NATIONAL                                                                                                   1234567                                817.00151      123773.00N  NNNN
+06L999606666I BANK ONE                                                                                                            145000                                 217.0025         5342.00N  NNNN
+06L999606666I KENTUCKY TELCO                                                                                                      64483                                   15.0017          254.71N  NNNN
+06L999606666R ATT UNIVERSAL CARD                                                                                                  478355                                  67.0050         3350.00N  NNNN
+06L999606666R DISCOVER CARD SERVICES                                                                                              601100                                  36.0050         1800.00N  NNNN
+06L999606666R FIRST USA BANK                                                                                                      441716                                  41.0050         2050.00N  NNNN
+06L999606666R HESS/ CRS                                                                                                           621865                                  15.0050          750.00N  NNNN
+06L999606666R HOBBS BANK                                                                                                          0987665                                 80.0046         3673.00N  NNNN
+06L999606666R GE CARD CO                                                                                                          540756                                  63.0049         3114.00N  NNNN
+06L999606666R MBNA AMERICA BANK                                                                                                   431300                                  50.004           200.00N  NNNN
+07A           0.00           0.00           0.00      250000.00         616.50        3178.95           0.00           0.00           0.00           0.00           0.00
+07B03         250.00
+08A999405000NNNNNNNNN01YY101
+08A500222000NNNNNNNNN03YY101
+08A991919991NNNNNNNNN01YY101
+08A999606666NNNNNNNNN01YY101
+09A99940500020180913
+09A500222000        
+09A991919991        
+09A999606666        
+10A999405000Y                               F
+10A500222000Y                               M
+10A991919991Y2                              M
+10A999606666Y                               M
+10BMSudershan Ch                                                201809139085551212Lender ABC                         194 Wood Avenue South              Ninth Floor                        Iselin                             NJ08830    
+00070 3.20 
+99B 03      325000.00  0.00002                                                                                                                   
+ADSLoanOriginationCompanyID           6521                                              
+ADSHMDAGenderType                     999405000:Female                                  
+ADSHMDAGenderRefusalIndicator         999405000:N                                       
+ADSHMDAGenderCollectedBasedOnVisual   999405000:N                                       
+ADSHMDARaceType                       999405000:1:AmericanIndianOrAlaskaNative          
+ADSHMDARaceRefusalIndicator           999405000:N                                       
+ADSHMDARaceCollectedBasedOnVisual     999405000:N                                       
+ADSHMDAEthnicityOriginType            999405000:Cuban                                   
+ADSHMDAEthnicityRefusalIndicator      999405000:N                                       
+ADSHMDAEthnicityCollectedBasedOnVisual999405000:N                                       
+ADSApplicationTakenMethodType         999405000:Mail                                    
+ADSHMDAGenderType                     500222000:Male                                    
+ADSHMDAGenderRefusalIndicator         500222000:N                                       
+ADSHMDAGenderCollectedBasedOnVisual   500222000:N                                       
+ADSHMDARaceType                       500222000:1:White                                 
+ADSHMDARaceRefusalIndicator           500222000:N                                       
+ADSHMDARaceCollectedBasedOnVisual     500222000:N                                       
+ADSHMDAEthnicityOriginType            500222000:Mexican                                 
+ADSHMDAEthnicityRefusalIndicator      500222000:N                                       
+ADSHMDAEthnicityCollectedBasedOnVisual500222000:N                                       
+ADSApplicationTakenMethodType         500222000:Telephone                               
+ADSHMDAGenderType                     991919991:Male                                    
+ADSHMDAGenderRefusalIndicator         991919991:N                                       
+ADSHMDAGenderCollectedBasedOnVisual   991919991:N                                       
+ADSHMDARaceType                       991919991:1:White                                 
+ADSHMDARaceRefusalIndicator           991919991:N                                       
+ADSHMDARaceCollectedBasedOnVisual     991919991:N                                       
+ADSHMDAEthnicityType                  991919991:NotHispanicOrLatino                     
+ADSHMDAEthnicityRefusalIndicator      991919991:N                                       
+ADSHMDAEthnicityCollectedBasedOnVisual991919991:N                                       
+ADSApplicationTakenMethodType         991919991:Internet                                
+ADSHMDAGenderType                     999606666:Male                                    
+ADSHMDAGenderRefusalIndicator         999606666:N                                       
+ADSHMDAGenderCollectedBasedOnVisual   999606666:N                                       
+ADSHMDARaceType                       999606666:1:White                                 
+ADSHMDARaceRefusalIndicator           999606666:N                                       
+ADSHMDARaceCollectedBasedOnVisual     999606666:N                                       
+ADSHMDAEthnicityOriginType            999606666:Mexican                                 
+ADSHMDAEthnicityRefusalIndicator      999606666:N                                       
+ADSHMDAEthnicityCollectedBasedOnVisual999606666:N                                       
+ADSApplicationTakenMethodType         999606666:Internet                                
+00011 3.20 
+LNC1F01        16100.000N                                N2018092720181201  0.000   0.000NN
+PID                                                  
+PCH   N01NNN 
+TT      2000
+ET     10000
